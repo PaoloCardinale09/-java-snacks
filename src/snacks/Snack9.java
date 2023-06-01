@@ -18,6 +18,6 @@ public class Snack9 {
 
         }
         System.out.println("La somma dei numeri da 1 a 10 è: "+ sum);
-        System.out.println("La media dei numeri è: " + media);
+        System.out.println("La media dei numeri è: " + media );
     }
 }
