@@ -11,6 +11,8 @@ public class Snack4 {
         int fine = parola.length() -1;
         boolean isPalindrome = true;
 
+        System.out.println("Inserisci una stringa");
+
         while (inizio < fine
         ) {
             if (parola.charAt(inizio) != parola.charAt(fine)) {
